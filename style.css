@@ -1,0 +1,14 @@
+
+h1 {color: lightskyblue;font-size: 40px;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+p {color:lightcyan; font-size: 18px;font-style: normal;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font: outline;}
+body {background-image: url(background.jpeg);}
+
+a {color: whitesmoke;font-size: 30;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+ul {color:lightcyan; font-size: 22px;font-style: normal;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+h3 {color: lightskyblue;font-size: 37;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+div.a {text-align: center;}
